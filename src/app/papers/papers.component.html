@@ -1,0 +1,30 @@
+<app-navbar></app-navbar>
+<section id="papers">
+  <div class="container">
+    <div class="row">
+      <h3 class="text-center">Our Papers</h3>
+      <div class="separator separator-danger">✻</div>
+      <p class="text-center">Despite the physical output realised in the course of projects execution there have also been academic outputs.
+        <br>The following is a select list of publications.</p>
+    </div>
+    <div class="row" *ngIf="!loading && !hasError">
+      <div class="col-md-4 col-sm-6" *ngFor="let paper of papers">
+        <div class="panel papers-panel card" style="position: relative;">
+          <div class="papers-year"><b>{{paper.year}}</b></div>
+          <div class="panel-body  papers-panel-body">
+            <p class="text-justify">{{paper.title}}</p>
+            <small>{{paper.paper_source}}</small>
+          </div>
+          <div class="panel-footer papers-panel-footer">
+            <small><b>Author(s):</b></small>&nbsp;
+            <small *ngFor="let author of paper.authors; let i=index">
+              <span *ngIf="i != 0">,&nbsp;</span>
+              <a routerLink="/team-member/{{author.id}}" class="author-link" *ngIf="author.id">{{author.name}}</a>
+              <span *ngIf="!author.id">{{author.name}}</span>
+            </small>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

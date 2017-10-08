@@ -1,0 +1,30 @@
+.product-block {
+  display: block;
+  text-align: center;
+  height: 180px;
+}
+
+.product-logo {
+  position: relative;
+  width:80px;
+  height: 80px;
+  margin: auto;
+  text-align: center;
+
+}
+
+.product-logo img {
+  width: 80px;
+  height: 80px;
+}
+
+.product-footer {
+  background-color: transparent;
+  border-color: #F5F5F5;
+  height: 50px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-top: 2px;
+
+}
+

@@ -1,0 +1,51 @@
+<app-navbar></app-navbar>
+<section id="project-detail" *ngIf="!loading && !hasError">
+  <div class="container">
+    <div class="row">
+      <h3 class="text-center">{{project.name}}</h3>
+      <div class="separator separator-danger">✻</div>
+    </div>
+    <div class="row">
+      <div class="col-md-7">
+        <div class="panel panel-default">
+          <div class="panel-header">
+            <img src="" [src]="project.img_url" alt="" class="img-responsive">
+          </div>
+          <div class="panel-body">
+            <h5>Project description</h5>
+            <p class="text-justify">{{project.description}}</p>
+          </div>
+          <div class="panel-footer">
+            <div class="row">
+              <div class="col-md-12">
+                <ul class="list-inline pull-left" *ngIf="project.site_url">
+                  <li><a href="{{project.site_url}}" target="_blank" class="btn btn-sm"><i class="fa fa-download"></i> view site</a></li>
+                </ul>
+                <ul class="list-inline pull-right">
+                  <li><a class="btn btn-sm btn-primary" routerLink="/projects"><i class="fa fa-arrow-left"></i> more projects</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div class="panel panel-default" style="background-color: #F5F5F5;">
+          <div class="panel-body">
+            <span style="font-size: 14px; font-weight: bold;">Client: <a href="" style="color: #008EDD;">{{project.client}}</a></span>
+            <h5>Scope of work</h5>
+            <div style="border-bottom: solid 1px #cecece; margin-bottom: 5px;"></div>
+            <ul class="list-unstyled">
+              <li *ngFor="let scope of project.work_scope">
+                <div class="row">
+                  <div class="col-md-2 col-xs-2 col-sm-2" style="color: #008EDD; padding-left: 8%;"><span class=""><i class="fa fa-check-square"></i></span></div>
+                  <div class="col-md-10 col-xs-10 col-sm-10" style="padding-left: 0px;">{{scope}}</div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

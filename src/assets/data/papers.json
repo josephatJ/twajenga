@@ -1,0 +1,178 @@
+[
+  {
+    "id": "1",
+    "title": "Adoption of Free Open Source Geographic Information System Solution for Health Sector in Zanzibar Tanzania.",
+    "paper_source": "Journal of Health Informatics in Developing Countries. Vol. 8(1).",
+    "year" : "2014",
+    "authors": [
+      {"name": "Kimaro, H. C." , "id":  "honest_kimaro"},
+      {"name": "Abu Bakar M. S."},
+      {"name": "Bakar A. D"}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Factors Affecting Utilization of Evidence Based Health Information System for Effective Supply Chain of Essential Medicine in Tanzania: A Case Study from Mbeya Region.",
+    "paper_source": "Journal of Health Informatics in Developing Countries. Vol. 7(1).",
+    "year" : "2013",
+    "authors": [
+      {"name": "Kagaruki, G.B"},
+      {"name": "Kimaro, H. C.", "id": "honest_kimaro"},
+      {"name": "Mboera, L. G"}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Kimaro, H. C., Mengiste, S. A., Aanestad, M., (2008). Redesigning Health Information Systems in Developing Countries: the Need for Local Flexibility and Distributed Control.",
+    "paper_source": "Journal of Public Administration and Development. Dev. 28, 18–29.",
+    "year" : "2008",
+    "authors" : []
+  },
+  {
+    "id": "4",
+    "title": "Kimaro, H. C., & Titlestad, O. H. (2008). Challenges of user participation in the design of a computer based system: the possibility of participatory customization in low income countries [Electronic Version]. Journal of Health Informatics in Developing Countries, 2, 1-9.",
+    "paper_source": "",
+    "year" : "2008",
+    "authors" : []
+    },
+  {
+    "id": "5",
+    "title": "Kimaro, H. C. and Sahay, S. (2007). An Institutional Perspective on the Process of Decentralization of Health Information Systems: Case Study from Tanzania. Journal of Information Technology for Development, Vol. 13 (4) 363–390.",
+    "paper_source": "",
+    "year" : "2007",
+    "authors" : []
+  },
+  {
+    "id": "6",
+    "title": "Kimaro, H. C., & Nhampossa, J. L. (2007). The challenges of sustainability of health information systems in developing countries: comparative case studies of Mozambique and Tanzania [Electronic Version]. Journal of Health Informatics in Developing Countries, 1(1), 1-10.",
+    "paper_source": "",
+    "year" : "2007",
+    "authors" : []
+  },
+  {
+    "id": "7",
+    "title": "Kimaro, H. C. (2006). Strategies for developing human resource capacity to support sustainability of ICT based health information systems: A Case study from Tanzania. The Electronic Journal of Information Systems in Developing Countries; 26(2):1-23.",
+    "paper_source": "",
+    "year" : "2006",
+    "authors" : []
+  },
+  {
+    "id": "8",
+    "title": "Kimaro, H. C. and Twaakyondo, H. H. (2005).  Analyzing the hindrance to the use of information and technologies for improving efficiency of healthcare delivery system in Tanzania, Tanzania Health Research Bulletin; 7(3):189-197.",
+    "paper_source": "",
+    "year" : "2005",
+    "authors" : []
+  },
+  {
+    "id": "9",
+    "title": "Kimaro, H. C. and Nhampossa, J. L (2005). Analyzing the problem of unsustainable Health Information Systems in Less-Developed Economies: Case studies from Tanzania and Mozambique. Journal of Information Technology for Development; 11(3):273-298.",
+    "paper_source": "",
+    "year" : "2005",
+    "authors" : []
+  },
+  {
+    "id": "10",
+    "title":"Kiwanuka, A., Kimaro, H., Senyoni, W., Thobias, J. (2015). A Framework for the Acceptance Process of District Health Information System for Vertical Health Programmes. IST-Africa 2015 Conference Proceedings held in May in Lilongwe, Malawi (www.IST-Africa.org/Conference2015).",
+    "paper_source": "",
+    "year" : "2015",
+    "authors" : []
+    },
+  {
+    "id": "11",
+    "title":"Kimaro, H.C (2011). Strengthening ICT based Health Information System (HIS) in Tanzania: The need for HIS policy. Proceedings of IST-Africa 2012 Conference held in May, 2012 (http://www.ist-africa.org/Conference2012/), in Dar es Salaam.",
+    "paper_source": "",
+    "year" : "2011",
+    "authors" : []
+      },
+  {
+    "id": "12",
+    "title":"M. Mahundi, J. Kaasbøll, and H. Twaakyondo, “Health Information Systems Integration in Tanzania : Tapping the Contextual Advantages,” in IST-Africa 2011 Conference Proceedings, 2011, pp. 1–11.",
+    "paper_source": "",
+    "year" : "2011",
+    "authors" : []
+  },
+  {
+    "id": "13",
+    "title": "Bishanga, D. and Kimaro, H.C (2011).Mobile phone Technology: A gateway to address gender obstacles in improving access to reproductive and child health services by women and their partners. Proceedings of IST-Africa 2012 Conference held in May, 2012 (http://www.ist-africa.org/Conference2012/), in Dar es Salaam.",
+    "paper_source": "",
+    "year" : "2011",
+    "authors" : []
+  },
+  {
+    "id": "14",
+    "title": "Mukama, F., Kimaro, H. C, and Gregory, J (2005). Organization culture and its impact in information systems development and implementation: A case from the health information system in Tanzania.’ In. Proceedings of Information Systems Research Seminar in Scandinavia (IRIS 28th). August 2005, Kristiansand, Norway.",
+    "paper_source": "",
+    "year" : "2005",
+    "authors" : []
+  },
+  {
+    "id": "15",
+    "title": "Aanestad, M., Monteiro, E., Kimaro, H., Macombe, E., Macueve, G., Mukama, F., Muquingue, H., Nhampossa, J. L. and Lungo, J. (2005). Strategies for Development and Integration of Health Information Systems: Coping with Historicity and Heterogeneity. Working Papers in Information Systems; 5:1-51.",
+    "paper_source": "",
+    "year" : "2005",
+    "authors" : []
+  },
+  {
+    "id": "16",
+    "title": "Kimaro, H. C. (2005). Importance of human resource capacity in the context of low income countries”. In. Social Implications of Computers in Developing Countries: Enhancing Human Resource Development through ICT, IFIP W.G. 9.4. Abuja, Nigeria.",
+    "paper_source": "",
+    "year" : "2005",
+    "authors" : []
+  },
+  {
+    "id": "17",
+    "title": "A Framework for the Acceptance Process of District Health Information System for Vertical Health Programmes: A Case of TB, HIV/AIDS and Malaria Programmes in Tanzania by Achilles Kiwanuka (2014).",
+    "paper_source": "",
+    "year" : "2014",
+    "authors" : []
+    },
+  {
+    "id": "18",
+    "title": "Application of geographical information system in health services management   to support   evidence based planning and   decision making: The case study of Kinondoni District in Dar Es Salaam, Tanzania by Aleswa Swai (2012).",
+    "paper_source": "",
+    "year" : "2012",
+    "authors" : []
+    },
+  {
+    "id": "19",
+    "title":"Requirements and logical design specifications for a mobile phone technology based Reproductive and Child Health system in Tanzania:  A case of Bagamoyo District Hospital by Dunstan R. Bishanga  (2011).",
+    "paper_source": "",
+    "year" : "2011",
+    "authors" : []
+    },
+  {
+    "id": "20",
+    "title": "Assessment of the management and utilization of evidence based HIS in the supply chain of Anti Retroviral Drugs (ARVs) by Millen Ringo (2012).",
+    "paper_source": "",
+    "year" : "2012",
+    "authors" : []
+    },
+  {
+    "id": "21",
+    "title": "Establishment of GIS tool for visualization of immunization data in tanzania: The Case Study of Bagamoyo District in Pwani Region by Emmanuel Ndilanha(2014).",
+      "paper_source": "",
+      "year" : "2014",
+    "authors" : []
+    },
+  {
+    "id": "22",
+      "title": "Challenges And Strategies For Improving Use Of Health Information For Action In Managing District Health Systems- A Case Of Eastern Tanzania by Alfred J Msasu (2010).",
+      "paper_source": "",
+      "year" : "2010",
+    "authors" : []
+    },
+  {
+    "id": "23",
+      "title": "Challenges and strategies for the design and implementation of sustainable integrated health management information system in Tanzania by       Mathew J. Mndeme (2011).",
+      "paper_source": "",
+      "year" : "2011",
+    "authors" : []
+    },
+  {
+    "id": "24",
+      "title": "Development Of An Integrated Architecture For Vital Registration System In Tanzania- A Case Study Of Registration Insolvency And Trusteeship Agency (Rita) by Jimmy T. Mbelwa (2010).",
+      "paper_source": "",
+      "year" : "2010",
+    "authors" : []
+    }
+]

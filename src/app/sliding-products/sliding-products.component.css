@@ -1,0 +1,12 @@
+.landing-btn {
+  background-color: transparent;
+  border-color: #fff;
+}
+
+.landing-btn:hover {
+  background-color: transparent;
+}
+
+.hidden-div{
+  /*display: none;*/
+}

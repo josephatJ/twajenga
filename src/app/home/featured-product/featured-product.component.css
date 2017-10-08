@@ -1,0 +1,28 @@
+#featured-product {
+  background-color: #f9f0c5;
+  margin-top: 20px;
+  padding-bottom: 20px;
+
+}
+.featured-product-block {
+  position: relative;
+}
+
+.featured-product-mask {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding-top: 25%;
+  background-color: #000;
+  opacity: 0.4;
+  display: none;
+  z-index: 1000;
+  text-align: center;
+}
+
+.featured-product-block:hover .featured-product-mask {
+  display: block;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}

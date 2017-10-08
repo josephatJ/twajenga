@@ -1,0 +1,21 @@
+<app-navbar></app-navbar>
+<section id="capacity-building">
+  <!--<app-loader></app-loader>-->
+  <div class="container">
+    <div class="row">
+      <div class="title-area">
+        <h3 class="text-center">Capacity building</h3>
+        <div class="separator separator-danger">✻</div>
+        <p class="text-center">The HISP Tanzania conducts short term training programs on the management, analysis and
+          use of information for district and regional health management teams.</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4" *ngFor="let training of trainings">
+        <img src="{{training.cover_url}}" class="img-responsive" height="250" alt="">
+        <h5>{{training.name}}</h5>
+        <p class="text-justify">{{training.description}}</p>
+      </div>
+    </div>
+  </div>
+</section>

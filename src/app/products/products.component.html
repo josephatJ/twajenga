@@ -1,0 +1,26 @@
+<app-navbar></app-navbar>
+<section id="products-page">
+  <div class="container">
+    <div class="row">
+      <div class="title-area">
+        <h3 class="text-center">Our Products</h3>
+        <div class="separator separator-danger">✻</div>
+      </div>
+    </div>
+    <app-loader *ngIf="loading && !hasError"></app-loader>
+    <div class="row" *ngIf="!loading && !hasError">
+      <div class="col-md-4 " *ngFor="let product of products">
+        <app-product-card [product]="product"></app-product-card>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="panel panel-default card">
+          <div class="panel-body text-center">
+            <h5>For more about our apps please visit our <a style="color: #00abc0;" href="http://appstore.hisptanzania.org/" target="_blank">appstore</a></h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

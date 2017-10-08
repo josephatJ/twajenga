@@ -1,0 +1,20 @@
+<div class="container section-header landing-carousel owl-carousel" style="padding: 1px;">
+  <a routerLink="/products">
+    <div class="container" style="background-image: url('assets/img/products/saccoss.png'); height: 200px; width: 100%; background-repeat: no-repeat; background-size: cover;" class="parallax">
+      <div class="hidden-div" [ngStyle]="{display: displayStatus, background: backgroundcolor}" (mouseover)="showThisDiv()" (mouseout)="hideThisDiv()" style="display: none;"></div>
+    </div>
+  </a>
+  <a routerLink="/products">
+    <div style="background-image: url('assets/img/products/saccoss.jpg'); height: 200px; width: 100%; background-repeat: no-repeat; background-size: cover;" class="parallax">
+    </div>
+  </a>
+  <a routerLink="/products">
+    <div style="background-image: url('assets/img/products/saccoss.png'); height: 200px; width: 100%; background-repeat: no-repeat; background-size: cover;" class="parallax">
+    </div>
+  </a>
+</div>
+<ul id='carousel-custom-dots' class='owl-dots list-inline text-center'>
+  <li class='owl-dot'><span></span></li>
+  <li class='owl-dot'><span></span></li>
+  <li class='owl-dot'><span></span></li>
+</ul>

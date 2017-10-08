@@ -1,0 +1,11 @@
+[
+  {"id": "1","name": "MoH", "logo": "assets/img/partners/mohsw.png", "url": "http://www.moh.go.tz/"},
+  {"id": "2", "name":"world bank", "logo":"assets/img/partners/world-bank.svg", "url": "http://www.worldbank.org/"},
+  {"id": "3", "name": "Measure Evaluation", "logo": "assets/img/partners/measure-evaluation.png", "url": "https://www.measureevaluation.org/countries/tanzania"},
+  {"id": "4","name": "", "logo": "assets/img/partners/jhpiego-logo.png", "url": "https://www.jhpiego.org/"},
+  {"id": "5","name": "University Of Oslo", "logo": "assets/img/partners/oslo_logo.png", "url": "http://www.uio.no/english/"},
+  {"id": "6","name": "", "logo": "assets/img/partners/jica.png", "url": "https://www.jica.go.jp/english/"},
+  {"id": "7","name": "", "logo": "assets/img/partners/chai.png", "url": "http://www.clintonhealthaccess.org/"},
+  {"id": "8", "name":"rti", "logo":"assets/img/partners/rti.png", "url": "https://www.rti.org/"},
+  {"id": "9", "name":"unicef", "logo":"assets/img/partners/unicef.png", "url": "https://www.unicef.org/"}
+]

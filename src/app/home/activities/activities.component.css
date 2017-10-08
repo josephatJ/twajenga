@@ -1,0 +1,23 @@
+.activities-icon {
+  font-size: 27px;
+  margin-bottom: 5px;
+  border-radius: 0px;
+}
+
+.activities-block {
+  -webkit-transition: all 370ms  ease-out;
+  -moz-transition: all 370ms  ease-out;
+  -o-transition: all 370ms  ease-out;
+  -ms-transition: all 370ms  ease-out;
+  transition: all 370ms  ease-out;
+  font-weight: 600;
+}
+
+.activities-block:hover {
+  color: #008CDB;
+  -webkit-transform: scale(1.03);
+  -moz-transform: scale(1.03);
+  -o-transform: scale(1.03);
+  -ms-transform: scale(1.03);
+  transform: scale(1.03);
+}

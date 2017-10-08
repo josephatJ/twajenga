@@ -1,0 +1,41 @@
+#papers {
+  padding-top: 70px;
+}
+
+.tooltip {
+  background: green;
+  color: white;
+}
+
+.papers-panel {
+  border-radius: 0px;
+  border-top: solid 2px #018BD9;
+  height: 260px;
+}
+.papers-panel-body {
+  padding-top: 30px;
+
+}
+
+.papers-panel-footer {
+  background: transparent;
+}
+
+.papers-year {
+  position: absolute;
+  border-bottom: solid 1px #eee;
+  color: #018BD9;
+  left:0;
+  right: 0;
+  font-size: 14px;
+  line-height: 15px;
+  padding: 5px 5px 5px 5px;
+  text-align: center;
+
+}
+
+.author-link {
+  color: #018BD9;
+  font-size: 12px;
+}
+

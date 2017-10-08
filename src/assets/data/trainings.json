@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name":  "DHIS2 Training Course ",
+    "description":  "A 5-day DHIS2 training workshops organized once every quarter. The course is aimed at strengthening and building capacity for DHIS2 implementers, district, regional and national users and other interested stakeholders in order to ensure sustainability of DHIS2 system in Tanzania. ",
+    "cover_url": "assets/img/capacity_building/dhis2_training.jpg"
+  },
+  {
+    "id": 2,
+    "name":  "HRHIS Training Course ",
+    "description":  "A 5-day HRHIS training workshops organized once every quarter. The course is aimed at strengthening and building capacity for HRHIS district, regional and national users and other interested stakeholders in order to ensure sustainability of HRHIS system in Tanzania ",
+    "cover_url": "assets/img/capacity_building/research.jpg"
+  },
+
+  {
+    "id": 3,
+    "name":  "Bi-annual Data Use workshops ",
+    "description":  "Support, establish and institutionalize bi-annual data use workshops at all levels where data is analyzed and discussed, problems identified (both regarding HMIS and health services), and action decided upon through training in data analysis and use ",
+    "cover_url": "assets/img/capacity_building/research.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+<app-navbar></app-navbar>
+<section id="article-details">
+  <app-loader></app-loader>
+  <div class="container">
+    <div class="row">
+      <div class="title-area">
+        <h3 class="text-center">{{article.title}}</h3>
+        <div class="separator separator-danger">✻</div>
+      </div>
+    </div>
+    <div class="row">
+      <iframe class="col-md-9" style="height: 1900px;" frameborder="0" scrolling="no" [src]="article.embed_url | safe"></iframe>
+      <div class="col-md-3">
+        <h3 style="border-bottom: solid 2px #e78b90; padding-bottom: 10px;">More Articles</h3>
+        <ul class="list-unstyled">
+          <li *ngFor="let more of moreArticles">
+            <a routerLink="/article/{{more.id}}">
+              <img src="{{more.cover_img}}" class="img-responsive" alt="">
+              <small>{{more.title}}</small>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

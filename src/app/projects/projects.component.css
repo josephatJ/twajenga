@@ -1,0 +1,31 @@
+#projects {
+  padding-top: 70px;
+}
+.project-panel {
+  border-radius: 0px;
+  height: 320px;
+}
+.project-panel-heading {
+  padding: 0px;
+  position: relative;
+}
+.project-title {
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  color: #fff;
+  padding-left: 5px;
+  padding-top: 130px;
+  background-color: #000;
+  opacity: 0.5;
+  z-index: 1000;
+  display: none;
+}
+
+.project-panel-heading:hover .project-title {
+  display: block;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}

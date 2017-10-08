@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "qn": "What is HISPTZ and UDSM?",
+    "ans": "HISP Tanzania stands for Health information systems programme node in Tanzania, which part of the Global HISP Nodes. primarily working on research and development of health information systems. Where as UDSM stands for University of Dar es salaam a government of institution housing the HISP Tanzanian team. \n This HISP Tanzania and UDSM are one and the same team. with UDSM known at legal capacity and HISP Tanzania and the community and international capacity"
+  },
+  {
+    "id": 2,
+    "qn": "What is DHIS and HMIS?",
+    "ans": "DHIS stands for District Health Information Software which is the software tool for management of health information, where as HMIS is Health Management information system that is a broader system for monitoring and evaluation of health information for management. HMIS is a unit under ministry, handling management of health information and responsible for monitoring and evaluation, handling data from registers, tally sheets, through summary forms to aggregated reports, which starts at facility level, going to district through regions to national level. DHIS is currenlty used by ministry to computerize data capture starting at district level and for select few facilities with capacity are using DHIS at facility level."
+  },
+  {
+    "id": 3,
+    "qn": "Why '2' in DHIS 2",
+    "ans": "DHIS started in version 1, at its inception, it was used in South africa during apartheid for capturing of health data, it was microsoft access based desktop application, later updated to web based and renamed 'DHIS 2' to support data capture and reporting over the web."
+  }
+]

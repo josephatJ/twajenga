@@ -1,0 +1,20 @@
+[
+  {
+    "id": "service_1",
+    "name": "Service 1",
+    "cover_url": "assets/img/products/saccoss.png",
+    "short_description": "Ks sjsasao sis soios sis sj sajs sjsuwms",
+    "description": "kds sddjkkd dsjkd djd djud ddjsiww sjs sjs sjus sjus sjus sjs snis sus sus sjhusjjusjs",
+    "features": ["Setdjsdsjdsd djkkkdsndsdjd sjksnjdsd, uasjascd","kasi nsi dsids sddisdad asopass asias , djkjasj sajas sajuas asj","Jsoissdd asos spsa sos soiis skios , jsksaie saoissa snssjs sujs, ksasdidndiu ddjud did djujos sisd.","jsdkkidkdi sjs oos lsps sis snsks siass sis siuuass asusa "
+    ]
+  },
+  {
+    "id": "service_2",
+    "name": "Service 2",
+    "cover_url": "assets/img/products/saccoss.jpg",
+    "short_description": "Ks sjsasao sis soios sis sj sajs sjsuwms",
+    "description": "kds sddjkkd dsjkd djd djud ddjsiww sjs sjs sjus sjus sjus sjs snis sus sus sjhusjjusjs",
+    "features": ["Setdjsdsjdsd djkkkdsndsdjd sjksnjdsd, uasjascd","kasi nsi dsids sddisdad asopass asias , djkjasj sajas sajuas asj","Jsoissdd asos spsa sos soiis skios , jsksaie saoissa snssjs sujs, ksasdidndiu ddjud did djujos sisd.","jsdkkidkdi sjs oos lsps sis snsks siass sis siuuass asusa "
+    ]
+  }
+]

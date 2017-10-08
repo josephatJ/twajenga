@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ards",
+    "name": "ARDS - Agricultural Routine Database System",
+    "img_url": "assets/img/projects/ards.png",
+    "client": "",
+    "description": "It is a web application developed for M&E TWG to enable officers of authorities to easily access and download the ARDS data for their specific demands. The essence of developing ARDS web application was to facilitate sharing of ARDS data broadly among relevant authorities for their monitoring, analysis, planning and decision making. In 2014, the team developed ARDS Web Application for Japan International Cooperation Agency (JICA) the project aimed at preparing the system analysis and design and developing an ARDS web application that will offer M&E TWG easy access to the data currently available in MS SQL database without the need of the computers to have LGMD2/2i Visual Basic application installed.",
+    "site_url": "http://ards.go.tz/",
+    "work_scope":[]
+  }, {
+    "id": "hrhis",
+    "name": "HRHIS - Human Resource for Health Information System",
+    "img_url": "assets/img/projects/hrhis.jpg",
+    "client": "",
+    "description": "It is an online system used for capturing, reporting and analyzing of all human resource related data from all health facilities (Private, Public, and FBOs) to higher levels in the country. The system has been implemented since 2011 and currently used by all 160 councils, regional RHMT offices and eight referral hospitals in the country linked to the DHIS2, and other related systems such as Training Institution Information System, and local government systems (Available through www.hrhis.moh.go.tz). The system is based on full open source technologies (PHP, PostgreSQL, and Linux) and a flexible architecture.  The database is populated with the initial mandatory 20 elements as requested by MOHSW, but the system is made very flexible enough to allow system administrators or authorized users to add new additional elements as new needs arise.",
+    "site_url": "http://hrhis.moh.go.tz/",
+    "work_scope":[]
+  }, {
+    "id": "dhis",
+    "name": "DHIS2 - District Health Information System",
+    "img_url": "assets/img/projects/dhis.png",
+    "client": "",
+    "description": "The DHIS 2 is an open source software tool for collection, validation, analysis, and presentation of aggregate statistical data, tailored to integrated health information management activities. Currently adopted and used by MOHSW as a nationwide HMIS data warehouse, HISP Tanzania under the University of Dar Es Salaam’s Computer Science and Engineering department played a key role in its development, customization and implementation of DHIS2 in Tanzania. Firstly pilot in Pwani region in the year 2002, DHIS2 was then rolled out in all districts and regions in Tanzania mainland by the year 2013. HISP Tanzania continues to provide technical support to MOHSW and other implementing partners in order to ensure sustainability of the system.",
+    "site_url": "https://dhis.moh.go.tz/",
+    "work_scope":[]
+  }, {
+    "id": "eidsr",
+      "name": "eIDSR - electronic Integrated Disease Surveillance and Response System",
+      "img_url": "assets/img/projects/eidsr.png",
+      "client": "",
+      "description": "A team of experts in HISP Tanzania developed, tested and piloted a mobile application module within DHIS2, an electronic Integrated Disease Surveillance and Response System (eIDSR) utilizing mobile USSD technologies and in accordance with the Tanzania MoHSW approved system requirements. This application is used for keeping track of Integrated Disease Surveillance and Response (IDSR) data. The data requirements, frequency of reporting, alert and notifications, and other characteristics of the IDSR distinguish its functional requirements from the core DHIS2. Currently the application is being used to report data directly from over 1500 health facilities in about 7 regions of Tanzania. Our team has continued to receive and compile feedback from field users and in parallel update the eIDSR USSD application.",
+      "site_url": "",
+      "work_scope":[]
+  }
+]
+

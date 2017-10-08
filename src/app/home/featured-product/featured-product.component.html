@@ -1,0 +1,32 @@
+<section id="featured-product">
+  <div class="container">
+    <div class="row">
+      <div class="title-area">
+        <h3 class="text-center">Services</h3>
+        <div class="separator separator-danger">✻</div>
+      </div>
+    </div>
+    <div class="row" *ngIf="!loading && !hasError">
+      <div class="col-md-7">
+        <div class="card">
+          <div class="featured-product-block">
+            <a class="featured-product-mask" routerLink="/product-details/{{featuredProduct.id}}"></a>
+            <img [src]="featuredProduct.cover_url" class="img-responsive" alt="">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-5" style="max-height: 330px;overflow-y: auto">
+        <ul class="list-inline" style="border-bottom: solid 1px #cecece;">
+          <li><h4><b>{{featuredProduct.name}}</b></h4></li>
+        </ul>
+        <p class="text-justify">{{featuredProduct.description}}</p>
+        <ul class="list-unstyled" *ngFor="let feature of featuredProduct.features">
+          <div class="row">
+            <div class="col-md-2 col-xs-2 col-sm-2" style="color: #008EDD; padding-left: 8%;"><span class=""><i class="fa fa-check-square"></i></span></div>
+            <div class="col-md-10 col-xs-10 col-sm-10" style="padding-left: 0px;"><span>{{feature}}</span></div>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
