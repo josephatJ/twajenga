@@ -2,8 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import {Product} from '../../models/product';
 import {ProductService} from '../../providers/product.service';
 
-export const SERVICES = [
-  'service_1', 'service_2'
+export const PRODUCTS = [
+  'Solidarity-Group-Lending','Equipment-Finance','Boda-boda-Loans','Microleasing-Loan','Business-Loan','Micro-housing-Loan'
 ]
 @Component({
   selector: 'app-featured-product',
@@ -21,7 +21,7 @@ export class FeaturedProductComponent implements OnInit {
   }
 
   ngOnInit() {
-    const featuredProductID = SERVICES[Math.floor((Math.random() * SERVICES.length) + 0)];
+    const featuredProductID = PRODUCTS[Math.floor((Math.random() * PRODUCTS.length) + 0)];
     this.productService.find(featuredProductID).subscribe((product) => {
       this.featuredProduct = product;
       this.loading = false;

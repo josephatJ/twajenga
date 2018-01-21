@@ -1,20 +1,52 @@
 [
   {
-    "id": "service_1",
-    "name": "Service 1",
-    "cover_url": "assets/img/products/saccoss.png",
-    "short_description": "Ks sjsasao sis soios sis sj sajs sjsuwms",
-    "description": "kds sddjkkd dsjkd djd djud ddjsiww sjs sjs sjus sjus sjus sjs snis sus sus sjhusjjusjs",
-    "features": ["Setdjsdsjdsd djkkkdsndsdjd sjksnjdsd, uasjascd","kasi nsi dsids sddisdad asopass asias , djkjasj sajas sajuas asj","Jsoissdd asos spsa sos soiis skios , jsksaie saoissa snssjs sujs, ksasdidndiu ddjud did djujos sisd.","jsdkkidkdi sjs oos lsps sis snsks siass sis siuuass asusa "
+    "id": "Solidarity-Group-Lending",
+    "name": "Solidarity Group Lending",
+    "cover_url": "assets/img/products/solidarity.jpg",
+    "short_description": "These are small business loan facilities designed to provide customers with easy access to funds for their working capital needs secured by the solidarity group guarantee",
+    "description": "These are small business loan facilities designed to provide customers with easy access to funds for their working capital needs secured by the solidarity group guarantee. The insistence of solidarity Loans is group guarantee and presence of actual economic activity of members.  Solidarity groups are formed by 5-10 members, known and willing to guarantee one another for the amount of loan taken by each member of the group. They meet twice a month at the designated place for reviews and training by Twajenga credit officers. Loans are taken gradually starting with small loan amounts and later increase based on repayment of previous loans.",
+    "features": ["Easy access to funding","Group cohesion","Minimal security requirement","Easy repayment minimizes burden of the loan","Can graduate to other types of loans"]
+  },
+  {
+    "id": "Equipment-Finance",
+    "name": "Equipment Finance",
+    "cover_url": "assets/img/products/saccoss.jpg",
+    "short_description": "The cost of machinery and capital goods can be very high for SME’S and entrepreneurs, at Twajenga we provide a solution to this",
+    "description": "The cost of machinery and capital goods can be very high for SME’S and entrepreneurs, at Twajenga we provide a solution to this through Equipment financing, to qualify for this loan an individual must satisfy the following conditions.",
+    "features": ["Must be 18 years and above","Must poses relevant skills to operate the equipment or must have an employ with the relevant skill set","Must poses working experience of at least 6 months"
     ]
   },
   {
-    "id": "service_2",
-    "name": "Service 2",
-    "cover_url": "assets/img/products/saccoss.jpg",
-    "short_description": "Ks sjsasao sis soios sis sj sajs sjsuwms",
-    "description": "kds sddjkkd dsjkd djd djud ddjsiww sjs sjs sjus sjus sjus sjs snis sus sus sjhusjjusjs",
-    "features": ["Setdjsdsjdsd djkkkdsndsdjd sjksnjdsd, uasjascd","kasi nsi dsids sddisdad asopass asias , djkjasj sajas sajuas asj","Jsoissdd asos spsa sos soiis skios , jsksaie saoissa snssjs sujs, ksasdidndiu ddjud did djujos sisd.","jsdkkidkdi sjs oos lsps sis snsks siass sis siuuass asusa "
+    "id": "Boda-boda-Loans",
+    "name": "Boda-boda Loans",
+    "cover_url": "assets/img/products/bodaboda.jpg",
+    "short_description": "We provide motorcycle financing solutions commonly known as “boda boda” to licensed drivers",
+    "description": "We provide motorcycle financing solutions commonly known as “boda boda” to licensed drivers. To qualify one has to full fill the following conditions ",
+    "features": ["Must be 18 years and above","Must have a valid driver’s license","Must be a citizen of Tanzania"
     ]
+  },
+  {
+    "id": "Microleasing-Loan",
+    "name": "Microleasing Loan",
+    "cover_url": "assets/img/products/saccoss.jpg",
+    "short_description": "Microleasing loans are specific loans that create a contractual arrangement between the customer (the lessee) and Twajenga (the lessor)",
+    "description": "Microleasing loans are specific loans that create a contractual arrangement between the customer (the lessee) and Twajenga (the lessor), which allows the lessee to use an asset/equipment/machinery owned by the lessor in exchange for monthly repayments. For this case, Twajenga expects the lessee to make lease payments by generating sufficient cash flow from the business during the entire period of the lease. Under this arrangement Twajenga will purchase the leased equipment/asset/machinery on behalf of customer and as specified by the customer. The leased asset/equipment/ machinery belong to Twajenga and will continue to be owned until all repayments have been made fully by the lessee.",
+    "features": ["Easy to own your own properties/machinery","Does not require security","Competitive interest rates","Easy and Simple application procedures"]
+  },
+  {
+    "id": "Business-Loan",
+    "name": "Business Loan",
+    "cover_url": "assets/img/products/saccoss.jpg",
+    "short_description": "These are small business loan facilities designed to provide customers with a short-term working capital",
+    "description": "These are small business loan facilities designed to provide customers with a short-term working capital. Working capital includes the purchase of stocks, raw material, accessories, working tools, payment of salaries, rentals etc. Loans are intended strictly for any authorized business activities with the valid business license. ",
+    "features": ["Easy access to funding","Startup business can obtain funds","Quick turnaround time","Business advice"]
+  },
+  {
+    "id": "Micro-housing-Loan",
+    "name": "Micro housing Loan",
+    "cover_url": "assets/img/products/saccoss.jpg",
+    "short_description": "Twajenga Micro housing loans are small loans provided to low-income households for a wide range of housing activities",
+    "description": "Twajenga Micro housing loans are small loans provided to low-income households for a wide range of housing activities, including, repair, renovation, and improvements to existing structures purchase of surveyed plots for construction of residential dwellings. The loan can be given in a lump sum or on a progressive basis depending on the nature and stages of the housing project.",
+    "features": ["Easy to own your own dreamed house","Does not require additional security","Longer payment period","Long-term investment appreciation i.e. capital gain","Easy and Simple application procedures"]
   }
 ]

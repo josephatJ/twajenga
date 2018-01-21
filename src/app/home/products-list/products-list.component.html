@@ -1,0 +1,13 @@
+<section style="padding-bottom: 20px">
+  <div class="container">
+    <div class="row">
+      <div class="title-area">
+        <h3 class="text-center">Our Products</h3>
+        <!--<div class="separator separator-danger">✻</div>-->
+      </div>
+    </div>
+    <div class="row">
+      <app-products-list-card  *ngFor="let product of products"  [product]="product"></app-products-list-card>
+    </div>
+  </div>
+</section>

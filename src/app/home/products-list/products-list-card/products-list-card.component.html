@@ -1,0 +1,11 @@
+<div class="col-md-4" style="height: 150px">
+  <h4 style="color: #2E98D3; text-align: center">{{ product.name }}</h4>
+  <div>
+    <a  style="color: #2E98D3;" routerLink="/product-details/{{ product.id }}">
+      <!--<p style="text-align: center"><img src="" height="90px"></p>-->
+    </a>
+  </div>
+  <div>
+    <p style="text-align: left">{{ product.short_description }} <b style="border: none; margin-left: 20px; text-transform: lowercase; color: #2E98D3" routerLink="/product-details/{{ product.id }}">More...</b></p>
+  </div>
+</div>

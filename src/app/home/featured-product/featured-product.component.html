@@ -2,12 +2,12 @@
   <div class="container">
     <div class="row">
       <div class="title-area">
-        <h3 class="text-center">Services</h3>
-        <div class="separator separator-danger">✻</div>
+        <h3 class="text-center">Trending Product</h3>
+        <div class="separator">✻</div>
       </div>
     </div>
     <div class="row" *ngIf="!loading && !hasError">
-      <div class="col-md-7">
+      <div class="col-md-8">
         <div class="card">
           <div class="featured-product-block">
             <a class="featured-product-mask" routerLink="/product-details/{{featuredProduct.id}}"></a>
@@ -15,7 +15,7 @@
           </div>
         </div>
       </div>
-      <div class="col-md-5" style="max-height: 330px;overflow-y: auto">
+      <div class="col-md-4" style="max-height: 330px;overflow-y: auto">
         <ul class="list-inline" style="border-bottom: solid 1px #cecece;">
           <li><h4><b>{{featuredProduct.name}}</b></h4></li>
         </ul>
